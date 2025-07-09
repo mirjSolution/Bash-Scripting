@@ -77,3 +77,6 @@ echo "Nginx installed successfully!"
 ## Conclusion
 
 Bash scripting is a critical skill for DevOps engineers and system administrators. With it, you can automate workflows, manage servers efficiently, and improve productivity.
+
+🧑‍💻 _Created by Rico John Dato-on_  
+🔗 [LinkedIn](https://www.linkedin.com/in/rico-john-dato-on) • [Portfolio](https://ricodatoon.netlify.app)

@@ -44,6 +44,8 @@ Use the following command:
 chmod u+x setup.sh
 ```
 
+![executable](Images/executable.png)
+
 ## Running a Script
 
 Run the script with:
@@ -52,11 +54,15 @@ Run the script with:
 ./setup.sh
 ```
 
+![run](Images/run.png)
+
 Or directly with Bash:
 
 ```bash
 bash setup.sh
 ```
+
+![bashrun](Images/bashrun.png)
 
 ## Sample Script
 
@@ -68,6 +74,8 @@ sudo apt update
 sudo apt install -y nginx
 echo "Nginx installed successfully!"
 ```
+
+![sample](Images/sample.png)
 
 ## Best Practices
 

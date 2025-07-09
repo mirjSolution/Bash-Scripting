@@ -22,6 +22,8 @@ A **shell** is a command-line interface that allows users to interact with the o
 
 ## Writing a Bash Script
 
+![Bash Scripting Example](Images/bashscript1.gif)
+
 1. Create a file with a `.sh` extension (e.g., `setup.sh`)
 2. Start with a **shebang** line:
 
